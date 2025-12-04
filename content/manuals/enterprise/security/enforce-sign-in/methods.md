@@ -1,4 +1,4 @@
----
+allowedOrgs---
 title: Configure sign-in enforcement
 linkTitle: Configure
 description: Configure sign-in enforcement for Docker Desktop using registry keys, configuration profiles, plist files, or registry.json files
